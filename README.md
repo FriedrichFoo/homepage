@@ -1,5 +1,3 @@
-# homepage
-
 ## Welcome to Friedrich's Dreamland
 
 ***Hello World!***
